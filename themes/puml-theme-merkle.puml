@@ -5,7 +5,7 @@
 '' Original Author: Matthew Leather
 ''
 
-!$THEME = "amiga"
+!$THEME = "merkle"
 
 !$BLACK  = "#000121"
 !$BLUE   = "#0B58A8"
